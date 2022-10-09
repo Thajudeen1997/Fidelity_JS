@@ -6,7 +6,7 @@ function read(x,y){
     let e = 50 // local
     const f = 60 // local
     {
-        var g = 70; //local
+         g = 70; //local
         let h = 80; // block
         const i = 90 // block
         console.log(g);

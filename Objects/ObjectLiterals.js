@@ -8,7 +8,7 @@ var personalDetails = {
         doorNo:"61/70",
         district:"tiruppur"
     },
-    qual:function(){
+   qual:function(){
         return "B.E"
     }
 }

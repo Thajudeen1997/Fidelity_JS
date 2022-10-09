@@ -1,4 +1,4 @@
-var arr = ['Thajudeen', '10/07/1997', 'male', 9003947855, 'PANNO']
+var arr = ['Thajudeen', ,'10/07/1997',, 'male',, 9003947855, 'PANNO']
 for (var index in arr) {
     console.log(arr[index]);
 }

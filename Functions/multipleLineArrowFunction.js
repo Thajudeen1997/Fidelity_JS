@@ -6,3 +6,6 @@ var oper = (a,b)=>{
     }
 }
 console.log( oper(3,2));
+
+const add=()=>"hello"
+console.log(add());

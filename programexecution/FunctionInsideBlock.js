@@ -5,12 +5,12 @@ const c = 30; // script
 
 {
     function read(x,y){
-        var d = 40 // local
+         d = 40 // local
         let e = 50 //local
         const f = 60 // local
     }
     read(70,80)
-    var g = 70; // global
+     g = 70; // global
     let h = 80; // block
     const i = 90 // block
 }

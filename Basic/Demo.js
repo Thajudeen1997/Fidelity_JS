@@ -6,10 +6,10 @@
 // var arr = ["hello","hi","gudmrng"]
 // var arr = ["demo","conclude","begin"]
 // console.log(arr[1]);
- function run(a) {
+ function run(a,b) {
     return "1st method"
 }
-function run(a,b) {
+function run(a) {
     return "2nd method"
 }
 console.log(run(2,3));
